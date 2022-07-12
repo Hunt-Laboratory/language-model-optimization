@@ -12,9 +12,9 @@ The intended use case is to integrate language models into argument mapping tool
 
 This repository contains:
 
-- Code for performing optimization, evaluation, and text generation. (See the `Code/README.md`.)
-- The specification of prompt templates used. (The prompt templates are defined in `Code/data.ipynb`, and the prompt templates used by each of the published models are specified in `Code/config/eCONFIG.json`.)
-- A set of generated examples that were manually rated, along with coherence ratings from an expert human rater. 100 were generated for each model, but not all are included in this file because some generations were empty or implausibly short after undergoing post-processing, so were not presented to the human rater. (See `GeneratedExamples/final_ratings_30_Jan_2022.json`. This is an array of objects, each of which corresponds to a generated example. The text the model was prompted with is specified in the `in` field, the generated output in the `gen` field, the argumentative reasoning task in the `op` field, and the model used by a unique identifier in the `model` field, which can be cross-referenced with the identifiers specified in `Code/config/gCONFIG.json`.)
+- **Code for performing optimization, evaluation, and text generation.** See the `Code/README.md`.
+- **The specification of prompt templates used.** The prompt templates are defined in `Code/data.ipynb`, and the prompt templates used by each of the published models are specified in `Code/config/eCONFIG.json`.
+- **A set of generated examples that were manually rated, along with coherence ratings from an expert human rater.** 100 were generated for each model, but not all are included in this file because some generations were empty or implausibly short after undergoing post-processing, so were not presented to the human rater. See `GeneratedExamples/final_ratings_30_Jan_2022.json`. This is an array of objects, each of which corresponds to a generated example. The text the model was prompted with is specified in the `in` field, the generated output in the `gen` field, the argumentative reasoning task in the `op` field, and the model used by a unique identifier in the `model` field, which can be cross-referenced with the identifiers specified in `Code/config/gCONFIG.json`.
 
 Data sharing conditions prevent us from making the data on which the models were trained publicly available, but if you are interested in using it please contact us and we will try to help.
 
