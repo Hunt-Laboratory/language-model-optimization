@@ -4,9 +4,9 @@ Scripts and instructions for finetuning GPT Neo 2.7 (in full or in part) to perf
 
 # Finetuned Models
 
-| Task | Strategy: soft prompt | Strategy: fintune bias parameters | Strategy: finetune all parameters |
-| ---- | --------------------- | --------------------------------- | --------------------------------- |
-| `suggest-reasons` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
-| `suggest-objections` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
-| `suggest-conclusion` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
-| `suggest-intermediary-claims` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
+| Task | Strategy:\nsoft prompt | Strategy: finetune bias parameters | Strategy: finetune all parameters |
+| ---- |: --------------------- :|: --------------------------------- :|: --------------------------------- :|
+| `suggest-reasons` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-full-finetune) |
+| `suggest-objections` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-full-finetune) |
+| `suggest-conclusion` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-full-finetune) |
+| `suggest-intermediary-claims` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-full-finetune) |
