@@ -33,12 +33,17 @@ If you have any enquiries about this work, please contact [Luke Thorburn](https:
 
 ## How to cite
 
-For now, please cite this work as
+For now, please cite this work as:
 
 ```
 @misc{thorburn2022,
-  title = {Optimizing Language Models for Argumentative Reasoning},
-  year = {2022}
+  author = {Thorburn, Luke and Kruger, Ariel},
+  title = {\texttt{language-model-optimization}},
+  year = {2022},
+  publisher = {GitHub},
+  institution = {University of Melbourne},
+  type = {software},
+  url = {https://github.com/Hunt-Laboratory/language-model-optimization}
 }
 ```
 
