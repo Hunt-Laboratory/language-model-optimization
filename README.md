@@ -22,10 +22,10 @@ Data sharing conditions prevent us from making the data on which the models were
 
 | Task | Strategy:<br />Soft Prompt | Strategy:<br />Bias-only Finetune | Strategy:<br />Full Finetune |
 | ---- | :---------------------: | :---------------------------------: | :---------------------------------: |
-| `suggest-reasons` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-full-finetune) |
-| `suggest-objections` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-full-finetune) |
-| `suggest-conclusion` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-conclusion-full-finetune) |
-| `suggest-intermediary-claims` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-full-finetune) |
+| `suggest-reasons` | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-reasons-soft) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-reasons-bias-only) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-reasons-full-finetune) |
+| `suggest-objections` | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-objections-soft) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-objections-bias-only) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-objections-full-finetune) |
+| `suggest-conclusion` | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-conclusion-soft) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-conclusion-bias-only) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-conclusion-full-finetune) |
+| `suggest-intermediary-claims` | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-soft) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-bias-only) | [Hugging Face](https://huggingface.co/luke-thorburn/suggest-intermediary-claims-full-finetune) |
 
 ## Contact
 
