@@ -4,7 +4,7 @@ Scripts and instructions for finetuning GPT Neo 2.7 (in full or in part) to perf
 
 # Finetuned Models
 
-| Task | Strategy:\n soft prompt | Strategy: finetune bias parameters | Strategy: finetune all parameters |
+| Task | Strategy:<br />Soft Prompt | Strategy:<br />Bias-only Finetune | Strategy:<br />Full Finetune |
 | ---- | :---------------------: | :---------------------------------: | :---------------------------------: |
 | `suggest-reasons` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-reasons-full-finetune) |
 | `suggest-objections` | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-soft) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-bias-only) | [Huggingface Link](https://huggingface.co/luke-thorburn/suggest-objections-full-finetune) |
