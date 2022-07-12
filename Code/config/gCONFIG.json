@@ -1,0 +1,20 @@
+[
+{"useThis": 0, "model": "a1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-intermediary-claims", "prompt_type": "few-shot", "strategy": "few-shot"},
+{"useThis": 1, "model": "a2", "checkpoint": "suggest-intermediary-claims-soft", "op": "suggest-intermediary-claims", "prompt_type": "soft", "strategy": "soft_prompt"},
+{"useThis": 0, "model": "a3", "checkpoint": "luke-thorburn/suggest-intermediary-claims-bias-only", "op": "suggest-intermediary-claims", "prompt_type": "manual", "strategy": "biases"},
+{"useThis": 0, "model": "a4", "checkpoint": "luke-thorburn/suggest-intermediary-claims-full-finetune", "op": "suggest-intermediary-claims", "prompt_type": "manual", "strategy": "full_finetune"},
+{"useThis": 0, "model": "b1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-reasons", "prompt_type": "zero-shot", "strategy": "zero-shot"},
+{"useThis": 0, "model": "b3", "checkpoint": "suggest-reasons-soft", "op": "suggest-reasons", "prompt_type": "soft", "strategy": "soft_prompt"},
+{"useThis": 0, "model": "b4", "checkpoint": "luke-thorburn/suggest-reasons-bias-only", "op": "suggest-reasons", "prompt_type": "zero-shot", "strategy": "biases"},
+{"useThis": 0, "model": "b5", "checkpoint": "luke-thorburn/suggest-reasons-full-finetune", "op": "suggest-reasons", "prompt_type": "zero-shot", "strategy": "full_finetune"},
+{"useThis": 0, "model": "c1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-objections", "prompt_type": "zero-shot", "strategy": "zero-shot"},
+{"useThis": 0, "model": "c3", "checkpoint": "suggest-objections-soft", "op": "suggest-objections", "prompt_type": "soft", "strategy": "soft_prompt"},
+{"useThis": 0, "model": "c4", "checkpoint": "luke-thorburn/suggest-objections-bias-only", "op": "suggest-objections", "prompt_type": "zero-shot", "strategy": "biases"},
+{"useThis": 0, "model": "c5", "checkpoint": "luke-thorburn/suggest-objections-full-finetune", "op": "suggest-objections", "prompt_type": "zero-shot", "strategy": "full_finetune"},
+{"useThis": 0, "model": "d1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-conclusion", "prompt_type": "zero-shot", "strategy": "zero-shot"},
+{"useThis": 0, "model": "d3", "checkpoint": "suggest-conclusion-soft", "op": "suggest-conclusion", "prompt_type": "soft", "strategy": "soft_prompt"},
+{"useThis": 0, "model": "d4", "checkpoint": "luke-thorburn/suggest-conclusion-bias-only", "op": "suggest-conclusion", "prompt_type": "zero-shot", "strategy": "biases"},
+{"useThis": 0, "model": "d5", "checkpoint": "luke-thorburn/suggest-conclusion-full-finetune", "op": "suggest-conclusion", "prompt_type": "zero-shot", "strategy": "full_finetune"},
+{"useThis": 0, "model": "e1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-copremise", "prompt_type": "few-shot", "strategy": "few-shot"},
+{"useThis": 0, "model": "f1", "checkpoint": "EleutherAI/gpt-neo-2.7B", "op": "suggest-abstraction", "prompt_type": "few-shot", "strategy": "few-shot"}
+]
