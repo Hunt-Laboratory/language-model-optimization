@@ -6,7 +6,7 @@ Scripts and instructions for finetuning GPT Neo 2.7 (in full or in part) to perf
 
 | Task | Strategy: soft prompt | Strategy: fintune bias parameters | Strategy: finetune all parameters |
 | ---- | --------------------- | --------------------------------- | --------------------------------- |
-| `suggest-reasons` | [LINK]() | [LINK]() | [LINK]() |
-| `suggest-objections` | [LINK]() | [LINK]() | [LINK]() |
-| `suggest-conclusion` | [LINK]() | [LINK]() | [LINK]() |
-| `suggest-intermediary-claims` | [LINK]() | [LINK]() | [LINK]() |
+| `suggest-reasons` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
+| `suggest-objections` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
+| `suggest-conclusion` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
+| `suggest-intermediary-claims` | [Huggingface Repo]() | [Huggingface Repo]() | [Huggingface Repo]() |
